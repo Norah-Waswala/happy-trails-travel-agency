@@ -20,3 +20,12 @@ strong{
 em{
     font-weight: bold;
 }
+.tropical {
+    font-style: italic;
+}
+body{
+    font-family: fantasy;
+}
+.one {
+    font-size: small;
+}
