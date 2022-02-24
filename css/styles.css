@@ -14,5 +14,9 @@ ul{
 h3{
   font-style: italic; 
 }
-
-
+strong{
+    font-style: italic;
+}
+em{
+    font-weight: bold;
+}
