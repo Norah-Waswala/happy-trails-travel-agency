@@ -29,3 +29,10 @@ body{
 .one {
     font-size: small;
 }
+.sidebar {
+    width: 30%;
+    background-color: yellow;
+}
+.text-box {
+    border: 2px solid red;
+}
