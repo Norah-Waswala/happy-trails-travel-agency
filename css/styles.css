@@ -17,22 +17,32 @@ h3{
 strong{
     font-style: italic;
 }
-em{
+em {
     font-weight: bold;
 }
-.tropical {
-    font-style: italic;
-}
-body{
+body {
     font-family: fantasy;
-}
-.one {
-    font-size: small;
-}
-.sidebar {
-    width: 30%;
-    background-color: yellow;
 }
 .text-box {
     border: 2px solid red;
+}
+.bahamas {
+    width: 40%;
+    height: 40%;
+    padding: 2cm;
+    margin: 2cm;
+    background-color: blueviolet;
+}
+.hawai {
+    width: 40%;
+    height: 40%;
+    padding: 2cm;
+    margin:2cm;
+}
+.header {
+    text-align: center;
+}
+.main {
+    text-align: center;
+    text-decoration: wavy;
 }
